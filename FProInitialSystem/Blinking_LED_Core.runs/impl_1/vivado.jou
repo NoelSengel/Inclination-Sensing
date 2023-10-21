@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sat Oct  7 12:38:43 2023
+# Process ID: 10212
+# Current directory: C:/VivadoProjects/FProSystem/FProInitialSystem/Blinking_LED_Core.runs/impl_1
+# Command line: vivado.exe -log mcs_top_vanilla.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mcs_top_vanilla.tcl -notrace
+# Log file: C:/VivadoProjects/FProSystem/FProInitialSystem/Blinking_LED_Core.runs/impl_1/mcs_top_vanilla.vdi
+# Journal file: C:/VivadoProjects/FProSystem/FProInitialSystem/Blinking_LED_Core.runs/impl_1\vivado.jou
+# Running On: Noel-Laptop, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 14, Host memory: 33946 MB
+#-----------------------------------------------------------
+source mcs_top_vanilla.tcl -notrace
